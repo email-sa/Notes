@@ -1,9 +1,3 @@
-# vue3-info-project
-
-基于 vue3 + webpack + antv + ts + lodash 从 0-1 实现一个信息管理系统
-
-# 第一阶段
-
 ## 添加 commit 强校验之 husky
 
 项目的提交备注五花八门,以至于后期不好追踪排查问题,强烈推荐大家在项目中加上 commit 规范约束,方便你我他 nice! 实现步骤如下:
